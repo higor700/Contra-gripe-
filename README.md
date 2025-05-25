@@ -1,79 +1,60 @@
-# Contra-gripe-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Contra a Gripe</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #f2f8ff;
-      color: #333;
-    }
-    header {
-      background: #1976d2;
-      color: white;
-      padding: 20px 0;
-      text-align: center;
-    }
-    section {
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 0 20px;
-    }
-    h2 {
-      color: #1976d2;
-    }
-    footer {
-      background: #e3f2fd;
-      text-align: center;
-      padding: 20px;
-      font-size: 14px;
-    }
-    .social a {
-      margin: 0 10px;
-      color: #1976d2;
-      text-decoration: none;
-    }
-  </style>
-</head>
-<body>
+Hum e, em seguida, levar a mão ao rosto (olhos, nariz ou boca).
 
-  <header>
-    <h1>Contra a Gripe</h1>
-    <p>Informações para se proteger, tratar e prevenir.</p>
-  </header>
+Principais sintomas da gripe:
 
-  <section>
-    <h2>O que é a gripe?</h2>
-    <p>A gripe é uma infecção viral que afeta o sistema respiratório. É altamente contagiosa e pode causar febre, dores no corpo, tosse, entre outros sintomas.</p>
+Febre alta (geralmente acima de 38°C)
 
-    <h2>Como tratar?</h2>
-    <ul>
-      <li>Repouso e boa hidratação</li>
-      <li>Uso de analgésicos e antitérmicos (sob orientação médica)</li>
-      <li>Alimentação leve e saudável</li>
-    </ul>
+Dor de garganta
 
-    <h2>Como prevenir?</h2>
-    <ul>
-      <li>Lavar bem as mãos</li>
-      <li>Evitar aglomerações em época de surtos</li>
-      <li>Tomar a vacina da gripe anualmente</li>
-    </ul>
-  </section>
+Tosse seca
 
-  <footer>
-    <p>Siga-nos nas redes sociais:</p>
-    <div class="social">
-      <a href="#">Instagram</a> |
-      <a href="#">Facebook</a> |
-      <a href="#">YouTube</a>
-    </div>
-    <p>&copy; 2025 Contra a Gripe. Todos os direitos reservados.</p>
-  </footer>
+Dores no corpo
 
-</body>
-</html>
+Dor de cabeça
+
+Calafrios
+
+Fadiga intensa
+
+Em alguns casos, vômitos e diarreia (mais comum em crianças)
+
+Grupos de risco: Embora a maioria das pessoas se recupere em cerca de uma semana, a gripe pode causar complicações graves, como pneumonia e agravamento de doenças crônicas. Os grupos mais vulneráveis são:
+
+Crianças menores de 5 anos
+
+Idosos com 60 anos ou mais
+
+Gestantes
+
+Pessoas com doenças crônicas (como asma, diabetes e problemas cardíacos)
+
+Profissionais da saúde e cuidadores
+
+Como se prevenir da gripe?
+
+A prevenção é a melhor forma de combater a gripe e suas complicações. Veja as principais medidas:
+
+1. Vacinação anual A vacina contra a gripe é segura, gratuita pelo SUS para grupos prioritários, e recomendada para todos acima de 6 meses de idade. Como o vírus da gripe sofre mutações constantes, a vacinação deve ser feita todos os anos.
+
+
+2. Higiene das mãos Lavar as mãos com frequência usando água e sabão é essencial. Quando não for possível, utilize álcool em gel 70%.
+
+
+3. Etiqueta respiratória Cubra a boca e o nariz com o braço (ou um lenço descartável) ao tossir ou espirrar. Isso ajuda a evitar a disseminação do vírus.
+
+
+4. Evitar aglomerações Durante surtos ou épocas do ano com maior incidência de gripe (geralmente outono e inverno), evite locais fechados e com muitas pessoas.
+
+
+5. Manter ambientes ventilados Deixe janelas abertas sempre que possível para permitir a circulação de ar e diminuir a concentração de vírus no ambiente.
+
+
+6. Não compartilhe objetos pessoais Evite compartilhar copos, talheres, toalhas e outros itens de uso pessoal, principalmente com pessoas que estejam com sintomas gripais.
+
+
+7. Cuide da sua saúde Alimente-se bem, durma o suficiente e pratique atividades físicas. Um corpo saudável tem mais chances de se defender contra infecções.
+
+
+
+Conclusão A gripe é uma doença comum, mas que pode ser evitada com medidas simples e eficazes. A vacinação anual e os cuidados com a higiene são as principais armas para se proteger. Manter bons hábitos de saúde e ficar atento aos sintomas pode fazer toda a diferença na sua proteção e na proteção de quem você ama.
+
